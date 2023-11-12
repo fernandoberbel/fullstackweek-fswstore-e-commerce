@@ -92,10 +92,10 @@ const ProductInfo = ({
             <p className="text-xs text-[#8162FF]">
               Envio para <span className="font-bold">todo o Brasil</span>
             </p>
-
-            <p className="text-xs font-bold">Frete grátis</p>
           </div>
         </div>
+
+        <p className="text-xs font-bold">Frete grátis</p>
       </div>
     </div>
   );
